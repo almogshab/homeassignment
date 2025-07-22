@@ -25,7 +25,7 @@ Homeassignment/
 │   │   │   └── com/
 │   │   │       └── datanet/
 │   │   │           └── homeassignment/
-│   │   │               ├── HomeassignmentApplication.java
+│   │   │               ├── HomeaAsignmentApplication.java
 │   │   │               ├── controller/
 │   │   │               │   └── UserController.java
 │   │   │               └── model/
@@ -40,7 +40,7 @@ Homeassignment/
 
 ### Backend (Spring Boot)
 
-* `com.datanet.homeassignment.HomeassignmentApplication.java`: The main Spring Boot application entry point.
+* `com.datanet.homeassignment.HomeAssignmentApplication.java`: The main Spring Boot application entry point.
 * `com.datanet.homeassignment.controller.UserController.java`: A REST controller that handles HTTP requests for user data.
     * `POST /api/user`: Saves the user's name.
     * `GET /api/user`: Retrieves the saved user's name.
@@ -76,7 +76,7 @@ To run this application, follow these steps:
 
 <img src="https://raw.githubusercontent.com/almogshab/homeassignment/refs/heads/main/photos/screen_shoot3.PNG" alt="תיאור ALT" width="450" />
 - Make online installation for the required stuff
-- Open the file "HomeassignmentApplication.java"
+- Open the file "HomeAssignmentApplication.java"
 - Click the Run button in the upper toolbar (top-right corner).
 
 
