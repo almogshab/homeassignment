@@ -25,7 +25,7 @@ Homeassignment/
 │   │   │   └── com/
 │   │   │       └── datanet/
 │   │   │           └── homeassignment/
-│   │   │               ├── HomeaAsignmentApplication.java
+│   │   │               ├── HomeAssignmentApplication.java
 │   │   │               ├── controller/
 │   │   │               │   └── UserController.java
 │   │   │               └── model/
