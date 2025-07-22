@@ -58,7 +58,7 @@ Homeassignment/
 
 To run this application, follow these steps:
 
-### running on windows without installation:
+### Running on windows without installation (no knowledge required:
 
 - Download the two zip files: [click here](https://drive.google.com/file/d/1wefQ6dJYHFj8tizDEdEjx0khQVRMp4dZ/view?usp=sharing)
 - Extract it into two: HomeAssignment.exe   (folder)
@@ -66,13 +66,13 @@ To run this application, follow these steps:
 - Enter in your browser into: http://localhost:8080/ or [click here](http://localhost:8080/)
 
 
-
-
-
-## Requirements
+## Requirements for Running on IDE (such as Visual Studio Code), knowledge required
 
 - Java Development Kit (JDK) 17
 - Gradle (included via Gradle Wrapper)
+- Download the project from git and open the project's foler
+
+## Running project via Codespaces (no installation required, knowledge required)
 
 
 ## photos
