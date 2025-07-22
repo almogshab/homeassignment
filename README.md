@@ -74,6 +74,12 @@ To run this application, follow these steps:
 
 ## Running project via Codespaces (no installation required, knowledge required)
 
+<img src="https://raw.githubusercontent.com/almogshab/homeassignment/refs/heads/main/photos/screen_shoot3.PNG" alt="תיאור ALT" width="300" />
+- Make online installation for the required stuff
+- Open the file "HomeassignmentApplication.java"
+- Click the Run button in the upper toolbar (top-right corner).
+
+
 
 ## photos
 
