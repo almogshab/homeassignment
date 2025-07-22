@@ -60,7 +60,11 @@ To run this application, follow these steps:
 
 ### running on windows without installation:
 
-Download the two zip files: [click here](https://drive.google.com/file/d/1wefQ6dJYHFj8tizDEdEjx0khQVRMp4dZ/view?usp=sharing)
+- Download the two zip files: [click here](https://drive.google.com/file/d/1wefQ6dJYHFj8tizDEdEjx0khQVRMp4dZ/view?usp=sharing)
+- Extract it into two: HomeAssignment.exe   (folder)
+- Double click on HomeAssignment.exe and as long as the black screen appears it works
+- Enter in your browser into: http://localhost:8080/ or [click here](http://localhost:8080/)
+
 
 
 
