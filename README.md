@@ -75,4 +75,12 @@ To run this application, follow these steps:
 - Gradle (included via Gradle Wrapper)
 
 
+## photos
+
+<img src="https://raw.githubusercontent.com/almogshab/homeassignment/refs/heads/main/photos/screen_shoot1.PNG" alt="תיאור ALT" width="300" />
+
+
+<img src="https://raw.githubusercontent.com/almogshab/homeassignment/refs/heads/main/photos/screen_shoot2.PNG" alt="תיאור ALT" width="300" />
+
+
 
