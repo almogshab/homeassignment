@@ -34,34 +34,5 @@ The project is structured as a standard Spring Boot application with a separate 
 
 To run this application, follow these steps:
 
-### Prerequisites
+### 
 
-* Java Development Kit (JDK) 8 or higher
-* Maven (or Gradle, if you prefer, but Maven is used in this project's default setup)
-* A web browser
-
-### Running the Backend
-
-1.  **Navigate to the project root**: Open your terminal or command prompt and go to the directory where `pom.xml` (or `build.gradle`) and the `src` folder are located.
-2.  **Build the Spring Boot application**:
-    ```bash
-    mvn clean install
-    ```
-3.  **Run the application**:
-    ```bash
-    mvn spring-boot:run
-    ```
-    The Spring Boot application will start on `http://localhost:8080`.
-
-### Running the Frontend
-
-The frontend consists of static files (`index.html`, `style.css`, `script.js`). You can open `index.html` directly in your web browser. There's no need for a separate web server for the frontend, as long as the backend is running and accessible at `http://localhost:8080`.
-
-1.  **Open `index.html`**: Locate the `index.html` file in your project directory (typically in `src/main/resources/static` or `src/main/resources/public` if using default Spring Boot static content serving, or just in the root if serving manually).
-2.  **Drag and drop** `index.html` into your web browser, or open it via "File > Open File" in your browser.
-
-### Interaction
-
-1.  Once `index.html` is open in your browser, enter a name into the input field.
-2.  Click the "שלח" (Send) button.
-3.  The application will then display a greeting like "שלום, [Your Name]" below the input field.
