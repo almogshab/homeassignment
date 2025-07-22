@@ -1,6 +1,7 @@
 # User Greeting Application
 
-This is a simple web application built with Spring Boot for the backend and plain HTML, CSS, and JavaScript for the frontend. The application allows a user to enter their name, submit it to the server, and then displays a personalized greeting.
+This is a simple web application built with Spring Boot using Gradle and jdk17 as the build tool for the backend, and plain HTML, CSS, and JavaScript for the frontend. The application allows users to enter their name, submit it to the server, and receive a personalized greeting in response.
+
 
 ## Features
 
@@ -13,6 +14,29 @@ This is a simple web application built with Spring Boot for the backend and plai
 ## Project Structure
 
 The project is structured as a standard Spring Boot application with a separate frontend.
+
+### Map Files
+
+```
+Homeassignment/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── datanet/
+│   │   │           └── homeassignment/
+│   │   │               ├── HomeassignmentApplication.java
+│   │   │               ├── controller/
+│   │   │               │   └── UserController.java
+│   │   │               └── model/
+│   │   │                   └── User.java
+│   │   └── resources/
+│   │       ├── static/
+│   │       │   ├── index.html
+│   │       │   ├── script.js
+│   │       │   └── style.css
+│   │       └── application.properties  (or application.yml)
+```
 
 ### Backend (Spring Boot)
 
@@ -34,5 +58,17 @@ The project is structured as a standard Spring Boot application with a separate 
 
 To run this application, follow these steps:
 
-### 
+### running on windows without installation:
+
+Download the two zip files: [click here](https://drive.google.com/file/d/1wefQ6dJYHFj8tizDEdEjx0khQVRMp4dZ/view?usp=sharing)
+
+
+
+
+## Requirements
+
+- Java Development Kit (JDK) 17
+- Gradle (included via Gradle Wrapper)
+
+
 
