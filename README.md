@@ -35,7 +35,7 @@ Homeassignment/
 │   │       │   ├── index.html
 │   │       │   ├── script.js
 │   │       │   └── style.css
-│   │       └── application.properties  (or application.yml)
+│   │       └── application.properties
 ```
 
 ### Backend (Spring Boot)
